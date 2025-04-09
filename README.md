@@ -39,7 +39,12 @@ project-werehouse-system-java/
 ├── LICENSE            # Contains the project’s license (MIT License)
 ├── README.md          # Documentation file explaining how to use the project
 ├── build.xml          
-├── manifest.mf        
+├── manifest.mf
+├── images/       
+|   ├── customer.PNG
+|   ├── log.PNG
+|   ├── transport.PNG
+|   └── warehouse.PNG   
 ├── src/Project/       # Source code directory for the main project files
 |   ├── InterfaceUI.form      
 |   └── InterfaceUI.java      
